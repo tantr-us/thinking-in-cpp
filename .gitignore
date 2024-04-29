@@ -1,0 +1,12 @@
+# Dev-C Project Files
+*.dev
+*.win
+*.layout
+
+# Object Files
+*.o
+*.obj
+
+# Executable Files
+*.exe
+*.out
